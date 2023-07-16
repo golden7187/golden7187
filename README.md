@@ -10,15 +10,6 @@ Software Developer | ML & NLP Enthusiast | Open Source Contributor
 
 💬 If you have any questions, want to collaborate on ML or NLP projects, or discuss the latest advancements in these fields, feel free to reach out to me. I'm always eager to connect with like-minded individuals.
 
-📫 You can find me on various platforms, including GitHub, LinkedIn, and Twitter. Check out my repositories below to explore my recent ML and NLP projects and contributions.
-
-⚡ Fun fact: [Share an interesting or unique fact about yourself.]
-
-Excited to connect with fellow developers passionate about ML, NLP, and building intelligent applications!
-
-
-
-
 <!---
 golden7187/golden7187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
